@@ -1,0 +1,74 @@
+#header{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+#sidebar{
+    background-color: greenyellow;
+    padding: 12px;
+    height: calc(107vh - 1px);
+    width: 100px;
+    position: absolute;
+    overflow-y: auto;
+}
+#content{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+}
+#footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color:lightcyan;
+}
+.bold{
+    padding-right: 10px;
+}
+.left
+{
+    text-align: left;
+}
+.top
+{
+    vertical-align: top; 
+    width: 60%;
+    text-align: left;
+}
+#Photo{
+    text-align: center; 
+    vertical-align: top; 
+    width: 40%; 
+    border: 5px;
+}
+#PhotoBorder{
+    width: 120px; 
+    height: 150px; 
+    border: 4px solid black; 
+    border-radius: 2px; 
+    align-content:center; 
+    align-items: center; 
+    display: flex; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+#fdf{
+    width: 40%;
+}
+#dddf{
+    width: 37%;
+}
+#ParentsName{
+    width: 44%;
+}
+#hmg{
+    width: 37%;
+}
+#grgre{
+    position: absolute;
+}
